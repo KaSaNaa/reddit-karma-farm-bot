@@ -1,5 +1,6 @@
+# folders
 venv
 /venv
 
+# files
 praw.ini
-praw.ini.save
