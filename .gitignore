@@ -4,3 +4,6 @@ praw.ini
 venv
 /venv
 
+__pycache__/keep_alive.cpython-312.pyc
+logs.txt
+posts_replied_to.txt
