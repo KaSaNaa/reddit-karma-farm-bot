@@ -1,6 +1,6 @@
+praw.ini
+
 # folders
 venv
 /venv
 
-# files
-praw.ini
